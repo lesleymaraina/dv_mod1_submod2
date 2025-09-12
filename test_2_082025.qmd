@@ -122,17 +122,7 @@ Goal: Turn numbers into narratives
 :::
 
 
-## Data-to-story workflow: Narrative arc
 
-::: incremental
--  Context
-- Question
-- Result
-- Implication
-- Limitations
-:::
-::: footer
-:::
 
 ## Data-to-story workflow: Narrative arc
 

@@ -1,0 +1,249 @@
+---
+title: "Storytelling with Data in Health Science"
+author: "Lesley Chapman Hannah, Ph.D., M.S.<br>College of Graduate Studies<br>Northeast Ohio Medical University"
+
+format: 
+  revealjs:
+    #theme: solarized
+    css: style.css
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: images/Flame.jpg
+    #css: styles.css
+    
+---
+
+## Overview
+
+::: incremental
+- Storytelling for biomedical science
+- Core principles of data storytelling
+- Data-to-story workflow
+
+
+:::
+
+
+::: footer
+
+:::
+
+
+##
+
+Goal: Turn numbers into narratives
+
+
+
+## Storytelling in biomedical science
+
+
+<div style="font-size: 80%">
+::: incremental
+-  Turning analysis into a clear, decision-ready narrative that clinicians, researchers, and stakeholders can act on
+-  Outline a structured **argument**:
+    - Narrative arc: context $\rightarrow$ question $\rightarrow$ method $\rightarrow$ result $\rightarrow$ implication
+- Consider your **audience**:
+    - Datasets can be used with different emphasis depending on the audience
+    - For clinicians (risk/benefit), scientists (validity/limitations), and ops/executives (feasibility/cost)
+- Evidence-centered: 
+    - Primary figure(s) that directly answers the question, with annotations and baselines.
+
+
+:::
+
+
+::: footer
+:::
+
+</div>
+
+
+## Data storytelling Examples
+
+
+::: incremental
+-  Example 1: Study Overview
+-  Example 2: Molecular Findings
+
+:::
+
+
+::: footer
+:::
+
+## Data storytelling Examples
+
+::: columns
+::: {.column width="50%"}
+![](images/Science.abl4896-fa.jpg){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+<span style="font-size:60%">The Tabula Sapiens Consortium(2022). Vol 376, Issue 659. Science.</span>
+:::
+::: footer
+:::
+
+## Data storytelling Examples
+
+
+::: columns
+::: {.column width="50%"}
+![](images/science.abl4896-f1.jpg){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+<span style="font-size:60%">The Tabula Sapiens Consortium(2022). Vol 376, Issue 659. Science.</span>
+:::
+::: footer
+:::
+
+## Data storytelling Examples
+
+
+::: columns
+::: {.column width="50%"}
+![](images/science.abl4896-f6.jpg){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+<span style="font-size:60%">The Tabula Sapiens Consortium(2022). Vol 376, Issue 659. Science.</span>
+:::
+::: footer
+:::
+
+
+## Data-to-story workflow: Narrative arc
+
+::: incremental
+-  Context
+- Question
+- Result
+- Implication
+- Limitations
+:::
+::: footer
+:::
+
+## Data-to-story workflow: Narrative arc
+
+::: incremental
+-  Context
+- Question
+- Result
+- Implication
+- Limitations
+:::
+::: footer
+:::
+
+
+## Data-to-story workflow: Narrative arc
+
+::: incremental
+-  **Context**: What decision/problem? Who is affected?
+- **Question**: Precisely stated, decision-relevant
+- **Result**: Effect size with uncertainty and baseline
+- **Implication**: Action, risks, monitoring plan
+- **Limitations**: What would change your conclusion?
+:::
+::: footer
+:::
+
+
+
+
+## Data storytelling Examples
+
+
+::: columns
+::: {.column width="22%"}
+![](images/Myocardial_Infarction_1_1.png){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+<span style="font-size:35%">Al-Zaiti, S., et al. (2023) Nature Medicine.</span>
+:::
+::: footer
+:::
+
+
+## Data storytelling Examples
+
+
+::: columns
+::: {.column width="50%"}
+![](images/Myocardial_Infarction_1.png){.border .border-thick}
+:::
+
+::: {.column width="10%"}
+
+:::
+<span style="font-size:35%">Al-Zaiti, S., et al. (2023) Nature Medicine.</span>
+:::
+::: footer
+:::
+
+
+## <span style="font-size:60%">Data-to-story workflow: Lab Introduction </span> {.smaller}
+<br>
+<br>
+<br>
+<br>
+A medical director informs you that the group is seeing too many biopsies that come back benign, but cannot miss real cancers. Your task is to help the group balance adequate treatment for suspected breast cancer against the burden of excessive biopsy screening
+
+
+::: footer
+:::
+
+
+## <span style="font-size:60%">Data-to-story workflow: Lab Introduction </span> {.smaller}
+
+::: incremental
+
+Task : Develop a method or tool that can be used by the medical group to efficiently categorize benign versus malignant tissue samples from patients
+:::
+::: footer
+:::
+
+
+
+## <span style="font-size:60%">Data-to-story workflow: Lab Introduction </span> {.smaller}
+<br>
+<br>
+<br>
+<br>
+
+A medical director informs you that the group is seeing too many biopsies that come back benign, but cannot miss real cancers. Your task is to help the group balance adequate treatment for suspected breast cancer against the burden of excessive biopsy screening
+
+
+::: footer
+:::
+
+
+
+## <span style="font-size:60%">Data-to-story workflow: Lab Introduction </span> {.smaller}
+<br>
+<br>
+<br>
+<br>
+Problem: Balancing adequate treatment for breast cancer patients while reducing the burden of excessive biopsy screening
+
+
+
+::: footer
+:::
+
+
+

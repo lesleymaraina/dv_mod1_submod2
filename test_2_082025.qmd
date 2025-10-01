@@ -1,6 +1,6 @@
 ---
 title: "Storytelling with Data in Health Science"
-author: "Lesley Chapman Hannah, Ph.D., M.S.<br>College of Graduate Studies<br>Northeast Ohio Medical University"
+author: "<br><br><span style='font-size:25px;'><strong>Lesley Chapman Hannah, Ph.D., M.S.</strong></span><br>College of Graduate Studies<br>Northeast Ohio Medical University"
 
 format: 
   revealjs:
@@ -47,9 +47,9 @@ Goal: Turn numbers into narratives
     - Narrative arc: context $\rightarrow$ question $\rightarrow$ method $\rightarrow$ result $\rightarrow$ implication
 - Consider your **audience**:
     - Datasets can be used with different emphasis depending on the audience
-    - For clinicians (risk/benefit), scientists (validity/limitations), and ops/executives (feasibility/cost)
-- Evidence-centered: 
-    - Primary figure(s) that directly answers the question, with annotations and baselines.
+    - For clinicians (risk/benefit), scientists (validity/limitations), and executives (feasibility/cost)
+- Evidence-centered figures: 
+    - Figure(s) that directly answers the question, with annotations and baselines
 
 
 :::
@@ -78,7 +78,7 @@ Goal: Turn numbers into narratives
 
 ::: columns
 ::: {.column width="50%"}
-![](images/Science.abl4896-fa.jpg){.border .border-thick}
+![](images/science.abl4896-fa.jpg){.border .border-thick}
 :::
 
 ::: {.column width="10%"}
